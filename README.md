@@ -49,7 +49,10 @@ If you still have problems please double check that you're running at least Java
 
 ### Building the Client
 
-**TODO**
+```
+cd client
+mvn clean install
+```
 
 ### Building the Server
 
